@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 👨🏽‍💻 I’m currently working on my company's projects which I can not share (yet hhhh);
 - 🌱 I’m currently learning ML and more about Python in general; 
 - 👯 I’m looking to collaborate on Python projects to learn more about this awesome language 🤝;
 - 🤔 I’m looking for help with System Architecture design 😭;
