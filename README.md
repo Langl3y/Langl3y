@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="" />
+<img width="55%" align="right" alt="Github" src="![Header](./github-header-image.png)" />
 
 - 👨🏽‍💻 I’m currently working on my company's projects which I can not share (yet hhhh);
 - 🌱 I’m currently learning ML and more about Python in general; 
