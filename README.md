@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fanime-readme-profile&psig=AOvVaw1-7vC5P2kadxVfAtHRx8dX&ust=1718186663851000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDi3qem04YDFQAAAAAdAAAAABAE" />
 
 - 👨🏽‍💻 I’m currently working on my company's projects which I can not share (yet hhhh);
 - 🌱 I’m currently learning ML and more about Python in general; 
