@@ -1,5 +1,5 @@
 <!-- Your title -->
-![Header](./github-header-image.png)
+![Header](./header_image.png)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
