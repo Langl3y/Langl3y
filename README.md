@@ -1,5 +1,5 @@
 <!-- Your title -->
-![Header](./header_image.png)
+![Header](./newest_header.png)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
