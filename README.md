@@ -32,8 +32,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 #### So feel free to hit me up with your business ideas, and we may go from there!
 
 ### If you want to get to know me more
-> Upto now, I've worked on Fintech and Taxation/ Digital Invoices software that leverage both automated data mapping and complex banking business logic in the backend.
-> I mostly do products but I'm also interested in outsourcing software that is written in Python.
+> Up to now, I’ve worked on fintech and taxation/digital invoice software that leverages both automated data mapping and complex banking business logic on the backend.</br>
+> I primarily work on products, but I’m also interested in outsourcing projects written in Python.
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
