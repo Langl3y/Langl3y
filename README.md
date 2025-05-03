@@ -20,7 +20,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg"></code>
