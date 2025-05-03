@@ -28,6 +28,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21~bgwhite.svg"></code>
 </p>
 
+** I also do a lot of testing/ automation requests using CURL/ Requests/ Postman **
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
